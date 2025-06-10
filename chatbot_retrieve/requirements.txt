@@ -1,0 +1,8 @@
+tourch==2.3.0
+python-dotenv==1.0.1
+langchain-openai
+sentence-transformers
+langchain
+langchain-community
+beautifulsoup4
+langgraph
