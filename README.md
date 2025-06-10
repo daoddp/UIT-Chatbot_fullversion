@@ -13,7 +13,7 @@ Hệ thống bao gồm:
 
 ### 1. Clone repository
 ```bash
-git clone https://github.com/your-username/uit-chatbot.git
+git clone https://github.com/daoddp/UIT-Chatbot_fullversion.git
 cd uit-chatbot
 ```
 ### 2. Cài đặt thư viện cần thiết
